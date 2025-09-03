@@ -1,0 +1,26 @@
+{
+  "name": "finance-ai-tracker-final",
+  "version": "1.0.0",
+  "description": "📊 Finance AI Tracker",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+  "install-all": "npm install --prefix frontend && npm install --prefix backend",
+  "start-frontend": "npm start --prefix frontend",
+  "start-backend": "npm run dev --prefix backend"
+}
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupasri1225/finance-ai-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rupasri1225/finance-ai-tracker/issues"
+  },
+  "homepage": "https://github.com/rupasri1225/finance-ai-tracker#readme"
+}
