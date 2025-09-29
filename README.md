@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  
 📊 Finance AI Tracker
 
@@ -132,3 +133,6 @@ Tesseract.js (OCR for bills)
 Recharts (data visualization)
 
 AI tools used for design assistance
+=======
+# financial-ai-tracker
+>>>>>>> 15eae851381e80917d207be1e632e43c54e51fd7
